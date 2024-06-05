@@ -1,0 +1,30 @@
+C:\Users\Vojtech Sandera\Source\Repos\ZbouraniSkoly1\ZbouraniSkoly2025\bin\Debug\ZbouraniSkoly2025.exe.config
+C:\Users\Vojtech Sandera\Source\Repos\ZbouraniSkoly1\ZbouraniSkoly2025\bin\Debug\ZbouraniSkoly2025.exe
+C:\Users\Vojtech Sandera\Source\Repos\ZbouraniSkoly1\ZbouraniSkoly2025\bin\Debug\ZbouraniSkoly2025.pdb
+C:\Users\Vojtech Sandera\Source\Repos\ZbouraniSkoly1\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.csproj.AssemblyReference.cache
+C:\Users\Vojtech Sandera\Source\Repos\ZbouraniSkoly1\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.Form1.resources
+C:\Users\Vojtech Sandera\Source\Repos\ZbouraniSkoly1\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.Properties.Resources.resources
+C:\Users\Vojtech Sandera\Source\Repos\ZbouraniSkoly1\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.csproj.GenerateResource.cache
+C:\Users\Vojtech Sandera\Source\Repos\ZbouraniSkoly1\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.csproj.CoreCompileInputs.cache
+C:\Users\Vojtech Sandera\Source\Repos\ZbouraniSkoly1\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.exe
+C:\Users\Vojtech Sandera\Source\Repos\ZbouraniSkoly1\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.pdb
+C:\Users\sanderavojtech\Source\Repos\sc\ZbouraniSkoly2025\bin\Debug\ZbouraniSkoly2025.exe.config
+C:\Users\sanderavojtech\Source\Repos\sc\ZbouraniSkoly2025\bin\Debug\ZbouraniSkoly2025.exe
+C:\Users\sanderavojtech\Source\Repos\sc\ZbouraniSkoly2025\bin\Debug\ZbouraniSkoly2025.pdb
+C:\Users\sanderavojtech\Source\Repos\sc\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.csproj.AssemblyReference.cache
+C:\Users\sanderavojtech\Source\Repos\sc\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.Form1.resources
+C:\Users\sanderavojtech\Source\Repos\sc\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.Properties.Resources.resources
+C:\Users\sanderavojtech\Source\Repos\sc\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.csproj.GenerateResource.cache
+C:\Users\sanderavojtech\Source\Repos\sc\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.csproj.CoreCompileInputs.cache
+C:\Users\sanderavojtech\Source\Repos\sc\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.exe
+C:\Users\sanderavojtech\Source\Repos\sc\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.pdb
+C:\Users\Vojtech Sandera\Source\Repos\bingbong\ZbouraniSkoly2025\bin\Debug\ZbouraniSkoly2025.exe.config
+C:\Users\Vojtech Sandera\Source\Repos\bingbong\ZbouraniSkoly2025\bin\Debug\ZbouraniSkoly2025.exe
+C:\Users\Vojtech Sandera\Source\Repos\bingbong\ZbouraniSkoly2025\bin\Debug\ZbouraniSkoly2025.pdb
+C:\Users\Vojtech Sandera\Source\Repos\bingbong\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.csproj.AssemblyReference.cache
+C:\Users\Vojtech Sandera\Source\Repos\bingbong\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.Form1.resources
+C:\Users\Vojtech Sandera\Source\Repos\bingbong\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.Properties.Resources.resources
+C:\Users\Vojtech Sandera\Source\Repos\bingbong\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.csproj.GenerateResource.cache
+C:\Users\Vojtech Sandera\Source\Repos\bingbong\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.csproj.CoreCompileInputs.cache
+C:\Users\Vojtech Sandera\Source\Repos\bingbong\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.exe
+C:\Users\Vojtech Sandera\Source\Repos\bingbong\ZbouraniSkoly2025\obj\Debug\ZbouraniSkoly2025.pdb
